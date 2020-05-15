@@ -3,7 +3,8 @@ layout: post
 title: File Reading
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+데이터 분석의 시작은 *'파일을 읽어오는 것'* 입니다. 
+본 Chapter에서는 원하는 파일을 읽어오는 것을 알아봅니다.
 
 -----
 

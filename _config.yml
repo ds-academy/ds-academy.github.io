@@ -1,9 +1,9 @@
 # Setup
 title: Data Science Acedemy
 tagline: All about Data Science
-description: 안녕하세요?
+description: 
 url: https://ds-academy.github.io
-paginate: 5
+paginate: 1
 baseurl: ""
 permalink: pretty
 
@@ -34,9 +34,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: LT Jeon
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Lt.Jeon
+  url: https://ds-academy.github.io
+  email: dsaiml.academy@gmail.com
 
 # Custom vars
-version: 3.0.0
+version: 0.0.1
